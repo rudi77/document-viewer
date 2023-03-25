@@ -1,0 +1,13 @@
+.document-viewer {
+    position: relative;
+  }
+  
+  .document-viewer img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .document-viewer .bounding-box {
+    position: absolute;
+    border: 1px solid red;
+  }
